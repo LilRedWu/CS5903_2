@@ -1,0 +1,22 @@
+[
+  {
+    "prompt_name": "baseline",
+    "accuracy": 0.59,
+    "predictions_path": "outputs/baseline/predictions.jsonl",
+    "confusion_matrix_path": "outputs/baseline/confusion_matrix.png",
+    "errors_path": null,
+    "misclassified_path": "outputs/baseline/incorrect_predictions.jsonl",
+    "invalid_predictions": 0,
+    "total_misclassified": 41
+  },
+  {
+    "prompt_name": "vision_reasoner",
+    "accuracy": 0.56,
+    "predictions_path": "outputs/vision_reasoner/predictions.jsonl",
+    "confusion_matrix_path": "outputs/vision_reasoner/confusion_matrix.png",
+    "errors_path": null,
+    "misclassified_path": "outputs/vision_reasoner/incorrect_predictions.jsonl",
+    "invalid_predictions": 0,
+    "total_misclassified": 44
+  }
+]

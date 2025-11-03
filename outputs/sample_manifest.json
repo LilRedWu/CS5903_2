@@ -1,0 +1,407 @@
+{
+  "seed": 1337,
+  "samples_per_class": 10,
+  "total_samples": 100,
+  "entries": [
+    {
+      "dataset_index": 43829,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 30158,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 46873,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 47966,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 13434,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 27415,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 31888,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 29655,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 25243,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 32411,
+      "label": "airplane"
+    },
+    {
+      "dataset_index": 16850,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 29761,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 9263,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 34845,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 32584,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 5827,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 41520,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 28535,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 33105,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 33085,
+      "label": "automobile"
+    },
+    {
+      "dataset_index": 25263,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 1492,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 28802,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 48493,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 9448,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 37208,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 19789,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 13735,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 25455,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 49397,
+      "label": "bird"
+    },
+    {
+      "dataset_index": 37584,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 49544,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 21510,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 16341,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 45075,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 5664,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 43283,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 47494,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 3756,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 6151,
+      "label": "cat"
+    },
+    {
+      "dataset_index": 33185,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 4193,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 1385,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 16024,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 16038,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 8523,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 23252,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 16007,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 36960,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 46220,
+      "label": "deer"
+    },
+    {
+      "dataset_index": 26545,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 1172,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 27947,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 35680,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 46980,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 19491,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 45321,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 3810,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 45742,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 26014,
+      "label": "dog"
+    },
+    {
+      "dataset_index": 17151,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 14457,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 43166,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 42960,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 43114,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 14838,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 3994,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 40357,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 47873,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 37048,
+      "label": "frog"
+    },
+    {
+      "dataset_index": 2015,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 42608,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 39667,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 44249,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 28486,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 45589,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 46524,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 20883,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 21276,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 5577,
+      "label": "horse"
+    },
+    {
+      "dataset_index": 10361,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 4758,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 13633,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 25783,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 6250,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 15615,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 36013,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 44528,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 20612,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 4304,
+      "label": "ship"
+    },
+    {
+      "dataset_index": 45539,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 12700,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 35127,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 28701,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 49670,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 3510,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 35358,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 23813,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 13148,
+      "label": "truck"
+    },
+    {
+      "dataset_index": 4584,
+      "label": "truck"
+    }
+  ]
+}
